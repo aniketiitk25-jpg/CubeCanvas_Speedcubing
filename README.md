@@ -1,3 +1,1 @@
 # CubeCanvas_Speedcubing
-
-hello
